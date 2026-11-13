@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+runs/
+data/shooting-target/
+*.pt
+!models/best.pt
+*.onnx
